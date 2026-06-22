@@ -45,6 +45,21 @@ NIR_2semestr/
 
 ---
 
+## Запуск
+ 
+```bash
+git clone https://github.com/elizavetakorkina2211-coder/ai-economic-growth.git
+cd ai-economic-growth/NIR_2semestr
+ 
+python -m venv .venv
+source .venv/bin/activate        # Windows: .venv\Scripts\activate
+pip install -r requirements.txt
+ 
+jupyter lab
+```
+
+---
+
 ## Данные
 
 - **Отраслевая панель:** 40 видов экономической деятельности (ОКВЭД), 2021–2024 гг. - валовая
