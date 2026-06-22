@@ -52,7 +52,7 @@ git clone https://github.com/elizavetakorkina2211-coder/ai-economic-growth.git
 cd ai-economic-growth/NIR_2semestr
  
 python -m venv .venv
-source .venv/bin/activate        # Windows: .venv\Scripts\activate
+source .venv/bin/activate        
 pip install -r requirements.txt
  
 jupyter lab
